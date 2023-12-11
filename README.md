@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/utkarshsaxenadn/landscape-recognition-image-data
 ### 1
 Download the Project notebook, models.py, the dataset linked above, and lightning_logs. Make sure they're all saved in the same folder.
 ##### 1.5
-If you wish to train the models yourself, the don't download lightning_logs.
+If you wish to train the models yourself, then don't download lightning_logs.
 
 ### 2
 Run each cell up until the Trainining section, and then each cell in the Testing the Models section. To test your own images, simply run the 'predict(model_name, image_path)' function, with 
